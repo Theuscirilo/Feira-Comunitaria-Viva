@@ -42,7 +42,7 @@ A proposta do projeto gira em torno de **valores como sustentabilidade, empatia,
 
 Você pode visualizar o projeto completo acessando o link abaixo:
 
-👉 [**Clique aqui para ver o projeto**](https://seu-link-aqui.com)
+👉 [**Clique aqui para ver o projeto**]([https://seu-link-aqui.com](https://theuscirilo.github.io/Feira-Comunitaria-Viva/))
 
 ---
 
